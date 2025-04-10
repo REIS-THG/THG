@@ -1,3 +1,3 @@
 # THG
 future of AgTech w/ Total Home Grown Ecosystem
-**URL**: [totalhomegrown.com](totalhomegrown.com)
+**URL**: https://www.totalhomegrown.com/thg-tech
